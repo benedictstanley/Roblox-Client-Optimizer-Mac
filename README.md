@@ -7,7 +7,7 @@ Why don't you give it a try?
 
 You need to run this every time Roblox updates:
 
-```sh
+```code
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer-Mac/main/RCOInstaller.sh | sh
 ```
 
