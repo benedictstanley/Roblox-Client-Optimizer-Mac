@@ -1,15 +1,18 @@
-# About RCO
+# Roblox-Client-Optimizer-Mac
 
 RCO automatically tweaks FFlags to optimize your Roblox client.
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
 Why don't you give it a try?
 
+# Mac Install Instructions 
 You need to run this every time Roblox updates:
 
 ```sh
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer-Mac/main/RCOInstaller.sh | sh
 ```
+
+# About RCO
 
 Some things RCO currently does:
 
