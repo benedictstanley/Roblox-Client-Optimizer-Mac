@@ -5,7 +5,11 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 
 Why don't you give it a try?
 
-- ADD INSTALL INSTRUCTIONS HERE
+You need to run this every time Roblox updates:
+
+```sh
+
+curl --proto '=https' --tlsv1.2 -sSf https://gist.githubusercontent.com/7kayoh/85664d832e43061458eb7b922a3eb3c9/raw/77c2a1f671a692ca478988a8e7985df6d4a614ec/RCOInstaller.sh | sh```
 
 Some things RCO currently does:
 
